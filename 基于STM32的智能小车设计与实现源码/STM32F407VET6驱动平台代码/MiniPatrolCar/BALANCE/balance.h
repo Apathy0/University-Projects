@@ -3,6 +3,7 @@
 #include "sys.h"
 #include "system.h"
 
+
 #define BALANCE_TASK_PRIO		4     //Task priority //任务优先级
 #define BALANCE_STK_SIZE 		512   //Task stack size //任务堆栈大小
 
