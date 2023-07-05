@@ -1,5 +1,6 @@
 #include "system.h"
 
+
 //Robot software fails to flag bits
 //机器人软件失能标志位
 u8 Flag_Stop=1;   

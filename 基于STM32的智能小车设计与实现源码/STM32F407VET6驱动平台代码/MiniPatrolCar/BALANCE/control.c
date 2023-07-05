@@ -2,6 +2,7 @@
 #include "filter.h"	
 
 
+
 u8 Flag_Target,Flag_Change;                             //相关标志位
 u8 temp1;                                               //临时变量
 float Voltage_Count,Voltage_All; 											  //电压采样相关变量

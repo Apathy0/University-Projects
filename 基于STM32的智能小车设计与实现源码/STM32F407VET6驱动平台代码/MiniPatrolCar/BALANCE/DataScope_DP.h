@@ -2,6 +2,7 @@
 #define __DATA_PRTOCOL_H
  
  
+ 
 extern unsigned char DataScope_OutPut_Buffer[42];	   //待发送帧数据缓存区
 
 

@@ -1,5 +1,6 @@
 #include "robot_select_init.h"
 
+
 //Initialize the robot parameter structure
 //初始化机器人参数结构体
 Robot_Parament_InitTypeDef  Robot_Parament; 
